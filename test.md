@@ -28,8 +28,8 @@ __Underline__
       b. b
 
 [link text UCI] (https://www.uci.edu)
-[UCLA] (https://www.ucla.edu)
 
 
-`inline code`
-``grep -i test blah.txt``
+`inline code
+grep -i test blah.txt
+`
